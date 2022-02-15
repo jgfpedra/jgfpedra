@@ -1,4 +1,4 @@
-name: jgfpedra
+name: Waka Readme
 
 on:
   workflow_dispatch:
