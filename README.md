@@ -1,6 +1,6 @@
 # Hey, guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-# WAKA
+# This week I Spent My Time On:
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
