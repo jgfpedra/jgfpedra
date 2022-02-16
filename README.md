@@ -1,4 +1,5 @@
-![](https://github.com/jgfpedra/jgfpedra/blob/main/assets/banner.gif)
+<img align="center" src="https://github.com/jgfpedra/jgfpedra/blob/main/assets/banner.gif" height="300px"/>
+
 
 ## About me ✔️
 
@@ -9,7 +10,7 @@
   <li> ☀️ E, para os falantes de portuguẽs, espero que vocês tenham um bom dia.</li>
 </ul>
 
-## This week
+## This week 🔥
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
@@ -25,7 +26,7 @@ No Activity tracked this Week
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jgfpedra&theme=default)](https://git.io/streak-stats)
 
-## Things I have a thing about 💭
+## Things I have a thing about 💖
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
