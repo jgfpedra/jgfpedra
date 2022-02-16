@@ -1,5 +1,6 @@
-<img align="center" src="https://github.com/jgfpedra/jgfpedra/blob/main/assets/banner.gif" height="300px"/>
-
+<p align="center">
+  <img align="center" src="https://github.com/jgfpedra/jgfpedra/blob/main/assets/banner.gif" height="300px"/>
+</p>
 
 ## About me ✔️
 
