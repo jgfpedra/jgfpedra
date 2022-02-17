@@ -6,7 +6,7 @@
 
 <ul>
   <li> 💻 I'm a graduate in Computer Science  from the State University of Campinas (UNICAMP)🏫.</li>
-  <li> 🌎 On 02/14/2022 I started 100% the developer journey. I'm looking forward to develop myself in new technologies, making many friends 😀 and having a very interesting path to be able to leave my mark on this world.</li>
+  <li> 🌎 On 02/14/2022 I started the developers journey 100%. I'm looking forward to develop myself in new technologies, making many friends 😀 and having a very interesting path to be able to leave my mark on this world.</li>
   <li> 📕 I am passionate about discovering new things, teamwork, challenges and others.</li>
   <li> ☀️ E, para os falantes de portuguẽs, espero que vocês tenham um bom dia.</li>
 </ul>
