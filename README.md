@@ -21,7 +21,7 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 ## What I'm hearing right now 🎵
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=joaogfp07&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) <!--https://github.com/kittinan/spotify-github-profile****--> 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=joaogfp07&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=62a0ea&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) <!--https://github.com/kittinan/spotify-github-profile****--> 
 
 ## Data 📊
 
